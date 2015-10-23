@@ -1,4 +1,4 @@
-# Swing SQL Project/
+# Java Swing SQL Project/
 
 SwingAppProject
 *******************************
