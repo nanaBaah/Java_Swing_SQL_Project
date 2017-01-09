@@ -1,4 +1,4 @@
-# Java Swing SQL Project/
+# Java Swing SQL Project
 
 SwingAppProject
 ---------------
@@ -6,7 +6,7 @@ SwingAppProject
 Please this contains all of the 
 * Java files 
 * Java docs and the 
-* "mysql-connector-java-5.1.36-bin.jar" (in the lib folder) to connect to the database
+* **mysql-connector-java-5.1.36-bin.jar** (in the lib folder) to connect to the database
 
 You can run the application from the "gui" -> "App.java"
 The username and password are found in the "package model" -> "Database.java" -> "line 44".
@@ -29,6 +29,6 @@ Contains schema/database, table, screen shots.
 
 Note:
 ------
-The port number, user name and password can be editted from
-JavaSwingDBApp.jar -> Window -> Preferences
-Or press CTRL + P.
+The port number, user name and password can be editted from either:
+* JavaSwingDBApp.jar -> Window -> Preferences
+* Or simply press CTRL + P.
